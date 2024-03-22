@@ -1,6 +1,5 @@
 <h1>Apply filters to SQL queries</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 In this activity lab, I will demonstrate my experience applying filters using SQL queries.
